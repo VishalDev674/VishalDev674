@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 Hi there, I'm Vishal Kumbhkar! 👋<br>I am a B.Tech Computer Science & Engineering student and a passionate developer. I enjoy turning complex problems into simple, elegant, and efficient code. When I'm not debugging, I'm usually exploring new frameworks or contributing to interesting projects.
 
 
